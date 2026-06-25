@@ -2,7 +2,7 @@
 Acelerando o desenvolvimento e garantindo a qualidade com um fluxo de trabalho automotizado por IA
 # IA na Prática: Fluxo de Trabalho Automatizado com GitHub Copilot e Actions
 
-[![CI Pipeline](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/ci.yml/badge.svg)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions)
+
 
 ## 1. Análise do Problema (Contexto do Desafio)
 A nossa empresa fictícia, focada em ferramentas de colaboração online, enfrenta o clássico dilema da engenharia de software: **Velocidade vs. Qualidade**. O crescimento acelerado e a pressão do roadmap geraram quatro gargalos críticos:
