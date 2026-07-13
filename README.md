@@ -1,3 +1,4 @@
+[![Python CI Pipeline](https://github.com/Vagner-Nunes/IA-na-Pr-tica/actions/workflows/ci.yml/badge.svg)](https://github.com/Vagner-Nunes/IA-na-Pr-tica/actions/workflows/ci.yml)
 # IA-na-Pr-tica
 Acelerando o desenvolvimento e garantindo a qualidade com um fluxo de trabalho automotizado por IA
 # IA na Prática: Fluxo de Trabalho Automatizado com GitHub Copilot e Actions
