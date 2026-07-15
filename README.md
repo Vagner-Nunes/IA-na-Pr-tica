@@ -29,4 +29,4 @@ Este repositório contém uma API simples utilizando **Python e Flask** para ger
 * **Tecnologias:** Python 3.10, Flask, Pytest.
 * **Assiduidade de IA:** As funções de negócio e testes foram documentadas com os prompts utilizados no Copilot.
 
-[Link para o Vídeo Pitch no YouTube](URL_DO_SEU_VIDEO_AQUI)
+[Link para o Vídeo Pitch no YouTube](https://youtu.be/YeQokL-yZZ0)
